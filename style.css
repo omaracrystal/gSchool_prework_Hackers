@@ -1,0 +1,32 @@
+body {
+  background-color: seashell;
+}
+
+h1,
+dd {
+  font: 36px Arial;
+  margin: 0 0 10px 0;
+  color: black;
+}
+
+h2,
+dd {
+  font: 24px Arial;
+  margin: 0 0 10px 0;
+  color: black;
+}
+
+p,
+li,
+dd {
+  font: 15px/18px Sans-Serif;
+  margin: 0 0 15px 0;
+  color: black;
+}
+
+td,
+th dd {
+  font: 13px/18px Sans-Serif;
+  text-align: left;
+  color: maroon;
+}
